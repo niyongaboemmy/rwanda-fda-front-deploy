@@ -1,0 +1,2 @@
+(this["webpackJsonprwanda-fda"]=this["webpackJsonprwanda-fda"]||[]).push([[15],{121:function(e,t,r){"use strict";r.r(t),r.d(t,"VerifyRegisteredProduct",(function(){return s}));var n=r(26),a=r(27),c=r(28),i=r(29),u=r(2),d=r(1),s=function(e){Object(c.a)(r,e);var t=Object(i.a)(r);function r(){return Object(n.a)(this,r),t.apply(this,arguments)}return Object(a.a)(r,[{key:"render",value:function(){return Object(d.jsx)("div",{children:"VerifyRegisteredProduct"})}}]),r}(u.Component)}}]);
+//# sourceMappingURL=15.3541f47f.chunk.js.map
